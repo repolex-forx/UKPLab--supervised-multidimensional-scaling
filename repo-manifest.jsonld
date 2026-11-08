@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/supervised-multidimensional-scaling/commit/272f3acc45a0170cf2930f17a63bf9b7c4535688",
       "git:hexsha": "272f3acc45a0170cf2930f17a63bf9b7c4535688",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
