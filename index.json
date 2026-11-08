@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "supervised-multidimensional-scaling",
+  "versions": [
+    {
+      "commit": "272f3acc45a0170cf2930f17a63bf9b7c4535688",
+      "tag": "",
+      "parsed_at": "2026-11-08T11:58:56.561598+00:00"
+    }
+  ]
+}
